@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeomor997)](https://solved.ac/homeomor997)
+
+pip install -r requirements.txt
+python manage.py runserver
+
+-->[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={homeomor997})](https://solved.ac/{homeomor997})
