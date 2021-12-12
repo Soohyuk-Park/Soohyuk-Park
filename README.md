@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeomor997)](https://solved.ac/homeomor997/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park)](https://github.com/Soohyuk-Park/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
 
 
