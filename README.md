@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=170&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=84)
-
+> Those who don't believe in magic will never find it.
 # 안녕하세요 👋
 ## 저는 금융 it전문가를 꿈꾸고 있습니다.
 ### 알고리즘 문제풀이와 데이터 분석에 관심이 많아요. 파이썬을 열심히 공부하고 있습니다 :)
