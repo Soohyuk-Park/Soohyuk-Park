@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soohyuk's Github%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soohyuk's%20Github&fontSize=90)
 
 
 
