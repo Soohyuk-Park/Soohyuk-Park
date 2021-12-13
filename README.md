@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=330&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=94)
+
 # 안녕하세요 👋
 ## 저는 금융 it전문가를 꿈꾸고 있습니다.
 ### 알고리즘 문제풀이와 데이터 분석에 관심이 많아요. 파이썬을 열심히 공부하고 있습니다 :)
@@ -9,7 +11,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soohyuk's%20Github&fontSize=90)
 
 
 
