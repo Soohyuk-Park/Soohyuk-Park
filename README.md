@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=330&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=94)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=94)
 
 # 안녕하세요 👋
 ## 저는 금융 it전문가를 꿈꾸고 있습니다.
