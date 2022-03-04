@@ -11,6 +11,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
+<img src="image.jpg" />  <br>
+[_발표자료].(/project.pptx) <br>
+
+#유용한 링크
+[네이버블로그](https://blog.naver.com/soogori458)
 
 
 
