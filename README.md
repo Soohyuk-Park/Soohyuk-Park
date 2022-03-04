@@ -2,7 +2,7 @@
 > Those who don't believe in magic will never find it.
 # 안녕하세요 👋
 
-|이름 |박수혁|![gdKO](/image.jpg){: width = "100" height = "100"|
+|이름 |박수혁|![gdKO](/image.jpg){: width = "100" height = "100"}|
 |연락처 | gdko(@)kopo.ac.kr|
 |skill set| Frontend - |
 | | Backend - |
