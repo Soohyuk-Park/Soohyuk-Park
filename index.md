@@ -1,34 +1,38 @@
-## Welcome to GitHub Pages
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=170&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=84)
+> Those who don't believe in magic will never find it.
+# 안녕하세요 👋
+## 저는 금융 it전문가를 꿈꾸고 있습니다.
+### 알고리즘 문제풀이와 데이터 분석에 관심이 많아요. 파이썬을 열심히 공부하고 있습니다 :)
+### 수학과 달리기를 좋아합니다.
 
-You can use the [editor on GitHub](https://github.com/Soohyuk-Park/Soohyuk-Park/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoohyuk-Park&count_bg=%2379C83D&title_bg=%23555555&icon=prometheus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=homeomor997)](https://solved.ac/homeomor997/)
 
-### Markdown
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="image.jpg" />  <br>
+[_발표자료].(/project.pptx) <br>
 
-```markdown
-Syntax highlighted code block
+#유용한 링크
+[네이버블로그](https://blog.naver.com/soogori458)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<!--
+**Soohyuk-Park/Soohyuk-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Bold** and _Italic_ and `Code` text
+Here are some ideas to get you started:
 
-[Link](url) and ![Image](src)
-```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Soohyuk-Park/Soohyuk-Park/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
