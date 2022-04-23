@@ -4,7 +4,7 @@
 > (https://soohyuk-park.github.io/)
 # 안녕하세요 👋
 
-|이름 |박수혁|![gdKO](/image.jpg){: width = "40" height = "40"}|
+|이름 |박수혁|![gdKO](/image.jpg){: width="100" height="100"}
 |연락처 | gdko(@)kopo.ac.kr|
 |skill set| Frontend - |
 | | Backend - | JAVA
