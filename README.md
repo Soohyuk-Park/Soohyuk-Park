@@ -5,6 +5,7 @@
 # 안녕하세요 👋
 
 |이름 |박수혁|![gdKO](/image.jpg){: width="100" height="100"}
+<img src="/image.jpg  width="200" height="400"/>
 |연락처 | gdko(@)kopo.ac.kr|
 |skill set| Frontend - |
 | | Backend - | JAVA
