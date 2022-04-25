@@ -2,18 +2,18 @@
 > Those who don't believe in magic will never find it.
 
 # 안녕하세요 👋
+<img src="./image.jpg" width="130" height="170">
 
+### 이름 : 박수혁<br>
+### Contact me : savvyi@naver.com
 
-#<img src="./image.jpg" width="130" height="170">
-# 이름 : 박수혁<br>
-# Contact me : savvyi@naver.com
-
-    [# skill set]
+    skill - set
     - Frontend - html, css, javascript
 
     - Backend - JAVA( SPRING )
 
     - DataBase : Oracle
+<br>
 
 
     [자격증] 
