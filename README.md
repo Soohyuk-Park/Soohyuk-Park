@@ -1,23 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=170&animation=fadeIn&section=header&text=Soohyuk's%20Github&fontSize=84)
 > Those who don't believe in magic will never find it.
-> (https://soohyuk-park.github.io/)
-> (https://soohyuk-park.github.io/)
+
 # 안녕하세요 👋
 
-|이름 |박수혁|![gdKO](/image.jpg){: width="100" height="100"}
-<img src="./image.jpg  width="200" height="400"/>
-|연락처 | gdko(@)kopo.ac.kr|
-|skill set| Frontend - |
-| | Backend - | JAVA
-|자격증| SQLD
-|| x |
-|| x |
-|| x |
-|특기사항|  NEW TEPS 343 |
+
+#<img src="./image.jpg" width="130" height="170">
+# 이름 : 박수혁<br>
+# Contact me : savvyi@naver.com
+
+    [# skill set]
+    - Frontend - html, css, javascript
+
+    - Backend - JAVA( SPRING )
+
+    - DataBase : Oracle
 
 
-## 저는 it전문가를 꿈꾸고 있습니다.
-### 수학과 달리기를 좋아합니다.
+    [자격증] 
+
+     - SQLD ( 2022/04/08 취득 )
+
+     - 정보처리기사 ( -ing / 2022/04/24 필기 합격 )
+
+특기사항  
+- NEW TEPS 343점
+
+
+## 코딩을 통해 협업하며 성장하고 싶습니다.
+## 수학과 달리기를 좋아합니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoohyuk-Park&count_bg=%2379C83D&title_bg=%23555555&icon=prometheus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -25,12 +35,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soohyuk-Park&show_icons=true&theme=cobalt)](https://github.com/Soohyuk-Park/github-readme-stats)
 
-<img src="image.jpg" />  <br>
-[_발표자료].(/project.pptx) <br>
-
 #유용한 링크
-[네이버블로그](https://blog.naver.com/soogori458)
+[깃허브페이지](https://github.com/Soohyuk-Park)
 
+[git 공부](https://soohyuk-park.github.io/Git_Study/)
 
 
 <!--
