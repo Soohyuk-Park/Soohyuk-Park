@@ -8,7 +8,7 @@
 ### Contact me : savvyi@naver.com
 
     skill - set
-    - Frontend - html, css, javascript
+    - Frontend - html, css, javascript, react
 
     - Backend - JAVA( SPRING )
 
@@ -24,6 +24,7 @@
 
 특기사항  
 - NEW TEPS 343점
+- TOEIC SPEAKING LEVEL 6
 
 
 ## 코딩을 통해 협업하며 성장하고 싶습니다.
