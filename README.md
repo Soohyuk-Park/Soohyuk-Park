@@ -8,11 +8,13 @@
 ### Contact me : savvyi@naver.com
 
     skill - set
-    - Frontend - html, css, javascript, react
+    - Frontend - html, css, javascript(react)
 
-    - Backend - JAVA( SPRING )
+    - Backend : node.js
 
     - DataBase : Oracle
+    
+    - Data and Algorithm : Python
 <br>
 
 
