@@ -41,8 +41,6 @@
 #유용한 링크
 [깃허브페이지](https://github.com/Soohyuk-Park)
 
-[git 공부](https://soohyuk-park.github.io/Git_Study/)
-
 
 <!--
 **Soohyuk-Park/Soohyuk-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
