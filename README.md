@@ -5,32 +5,7 @@
 <img src="./image.jpg" width="130" height="170">
 
 ### 이름 : 박수혁<br>
-### Contact me : savvyi@naver.com
 
-    skill - set
-    - Frontend - html, css, javascript(react)
-
-    - Backend : node.js
-
-    - DataBase : Oracle
-    
-    - Data and Algorithm : Python
-<br>
-
-
-    [자격증] 
-
-     - SQLD ( 2022/04/08 취득 )
-
-     - 정보처리기사 ( -ing / 2022/04/24 필기 합격 )
-
-특기사항  
-- NEW TEPS 343점
-- TOEIC SPEAKING LEVEL 6
-
-
-## 코딩을 통해 협업하며 성장하고 싶습니다.
-## 수학과 달리기를 좋아합니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoohyuk-Park&count_bg=%2379C83D&title_bg=%23555555&icon=prometheus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
